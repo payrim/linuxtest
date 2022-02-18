@@ -2,17 +2,17 @@
 
 this 1.1
 
-git add -u {or filename} \\
+git add -u {or filename} 
 
-git status (for status)  \\
+git status (for status)  
 
-git comit -m "comment" \\
+git commit -m "comment" 
 
-git push \\
+git push 
 
-git restore (restore) \\
+git restore (restore) 
 
-git pull (pull) \\
+git pull (pull) 
 
 git config --global credential.helper cache
 
