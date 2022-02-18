@@ -16,6 +16,7 @@ git pull (pull) \\
 
 git config --global credential.helper cache
 
+for remove, --unset and no cache
 
 ## Getting started
 
