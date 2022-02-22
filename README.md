@@ -18,6 +18,8 @@ git config --global credential.helper cache
 
 for remove, --unset and no cache
 
+new line
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
