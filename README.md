@@ -18,7 +18,7 @@ git config --global credential.helper cache
 
 for remove, --unset and no cache
 
-new line
+new line2
 
 ## Getting started
 
